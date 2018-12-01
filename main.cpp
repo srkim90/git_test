@@ -15,6 +15,7 @@ int main(int argv, char * argc[])
     pDb->dbCreateTable(string("CPG_ROUTE_RULE"), string(""));
 
     printf("1111112\n");
+    printf("1111112111 new\n");
 
     return 0;
 }
